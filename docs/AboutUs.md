@@ -11,6 +11,12 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
+### Jonathan Koh
+
+<img src="images/jonkohzy.png" width="200px">
+
+[[github](https://github.com/jonkohzy)]
+
 ### John Doe
 
 <img src="images/johndoe.png" width="200px">
@@ -23,10 +29,9 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ### Jane Doe
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/dbs15329.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](https://github.com/dbs15329)]
 
 * Role: Team Lead
 * Responsibilities: UI
@@ -40,22 +45,20 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Developer
 * Responsibilities: Data
 
-### Jean Doe
+### Wesley Tay
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/wesleytay25.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](https://github.com/WesleyTay25)]
 
 * Role: Developer
 * Responsibilities: Dev Ops + Threading
 
-### James Doe
+### Chester Lim Yi Jie
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/chesterlim2004.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](https://github.com/chesterlim2004)]
 
 * Role: Developer
 * Responsibilities: UI
